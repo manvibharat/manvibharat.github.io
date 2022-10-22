@@ -22,6 +22,7 @@ Videos
       width="700"
       height="480"
       frameborder="0"
+      allow="autoplay; encrypted-media"
       allowfullscreen="true">
   </iframe>
 </div>
