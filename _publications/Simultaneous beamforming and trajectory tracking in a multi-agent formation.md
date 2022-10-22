@@ -10,7 +10,7 @@ citation: 'B. Manvi, B. Bhikkaji and A. D. Mahindrakar, "Simultaneous beamformin
 ---
 In this paper, a multi-agent leader-follower system in a regular polygonal formation is considered. The leader is positioned at the centroid of polygon and the followers at the vertices. The centroid of the formation follows a smooth trajectory. All agents transmit a common signal to a distant static receiver over a noisy channel. The phase difference due to the relative positions of the transmitters (agents) could cause a destructive interference leading to a poor Signal-to-Noise Ratio (SNR). We propose a novel strategy that involves the use of a control framework to avoid the phase alteration of the signal transmitted by each agent. A two-level nonlinear control law is designed to meet the objective of attaining a maximum possible SNR at the receiver while maintaining a rigid formation whose centroid tracks a smooth trajectory. We show that the equilibrium of the cascaded closed-loop system is locally exponentially stable. Simulations are performed to validate the control law.
 
-<iframe width="320" height="215" src="http://www.youtube.com/embed/wMIaKA5AQtA" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="400" src="http://www.youtube.com/embed/wMIaKA5AQtA" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
