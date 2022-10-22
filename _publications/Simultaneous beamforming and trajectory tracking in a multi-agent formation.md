@@ -6,7 +6,7 @@ excerpt: ' A two-level nonlinear control law is designed to meet the objective o
 date: 2021-06-23
 venue: '29th Mediterranean Conference on Control and Automation (MED)'
 paperurl: 'https://ieeexplore.ieee.org/document/9480277'
-citation: 'B. Manvi, B. Bhikkaji and A. D. Mahindrakar, "Simultaneous beamforming and trajectory tracking in a multi-agent formation," 2021 29th Mediterranean Conference on Control and Automation (MED), 2021, pp. 1114-1119'
+citation: 'B. Manvi, B. Bhikkaji and A. D. Mahindrakar, "Simultaneous beamforming and trajectory tracking in a multi-agent formation,"  29th Mediterranean Conference on Control and Automation (MED), 2021, pp. 1114-1119'
 ---
 In this paper, a multi-agent leader-follower system in a regular polygonal formation is considered. The leader is positioned at the centroid of polygon and the followers at the vertices. The centroid of the formation follows a smooth trajectory. All agents transmit a common signal to a distant static receiver over a noisy channel. The phase difference due to the relative positions of the transmitters (agents) could cause a destructive interference leading to a poor Signal-to-Noise Ratio (SNR). We propose a novel strategy that involves the use of a control framework to avoid the phase alteration of the signal transmitted by each agent. A two-level nonlinear control law is designed to meet the objective of attaining a maximum possible SNR at the receiver while maintaining a rigid formation whose centroid tracks a smooth trajectory. We show that the equilibrium of the cascaded closed-loop system is locally exponentially stable. Simulations are performed to validate the control law.
 

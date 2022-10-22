@@ -23,7 +23,6 @@ Work experience
 * December 2020 :  
   * Control systems (NPTEL) : Teaching Assistant
   * Duties included: Creating experiments on PID control
-  * Supervisor: Dr. Ramkrishna Pasumarthy
 
 * July 2018 - July 2022: MS (by Research)
   * IIT Madras : Research Scholar
@@ -32,7 +31,7 @@ Work experience
 Skills
 ======
 * Programming in Python, Julia and Cpp
-* Expereince in ROS Melodic
+* Experience in ROS Melodic
 
 Courses 
 =======
@@ -50,6 +49,9 @@ Courses
   * Optimal Control
   * Geometric control 
  
+<!-- Mini Projects
+=== -->
+
 
 Publications
 ======
