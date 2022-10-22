@@ -13,8 +13,18 @@ I did my research in Lyapunov stability analysis of the cascade of formation and
 
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
 
-<!-- Videos
+Videos
 ===
 
-<iframe width="500" height="400" src="http://www.youtube.com/embed/wMIaKA5AQtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>></iframe> -->
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/wMIaKA5AQtA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+<!-- <iframe width="500" height="400" src="http://www.youtube.com/embed/wMIaKA5AQtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>></iframe> -->
 
