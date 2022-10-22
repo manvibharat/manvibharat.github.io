@@ -11,29 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E in Electronics and Communication, SJCE, Mysore, 2018
+* M.S (by Research) in Control systems, Electrical Engineering, IIT Madras, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Present :
+  * TCS Research : Researcher
+  * Duties included: Electricity Market
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2020 :  
+  * Control systems (NPTEL) : Teaching Assistant
+  * Duties included: Creating experiments
+  * Supervisor: Dr. Ramkrishna Pasumarthy
+
+* July 2018 - July 2022: MS (by Research)
+  * IIT Madras : Research Scholar
+  * Duties included: Research on Lyapunov control laws
   
 Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
@@ -42,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -55,5 +54,4 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+====== -->
