@@ -23,7 +23,6 @@ venue: '62nd Conference on Decision and Control (CDC)'
 paperurl: 'https://arxiv.org/pdf/2310.02582.pdf'
 citation: 'Bharat Manvi and Easwar Subramanian. A Nash Equilibrium Solution for Periodic Double Auctions. In 2023 IEEE 62nd Conference on Decision and Control (CDC), 2023'
 ---
-
 The paper provides the Nash equilibrium solutions for the Periodic Double Auctions modeled using Markov Game. Though the work considers the complete information setting where we assume the supply curve and demand requirements are fully known, I believe the equilibrium solution help in explain the realistic policies used in the Periodic Double Auction. It is useful to study such auctions since they are used in Day ahead electricity Market. 
 
 
