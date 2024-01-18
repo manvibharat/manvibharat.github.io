@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Bharat Manvi. I completed my MS degree in Electrical Engineering; Control and optimization group; in IIT Madras.
-I did my research in Lyapunov stability analysis of the cascade of formation and geometric control. Currently my research is in area of Electricity Wholesale market.  
+I did my research in Lyapunov stability analysis of the cascade of formation and geometric control. Currently I am working at TCS Research and my research is in area of Electricity Wholesale market.  
 
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
 
