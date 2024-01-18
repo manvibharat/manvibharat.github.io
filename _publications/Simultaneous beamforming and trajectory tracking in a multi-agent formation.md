@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous beamforming and trajectory tracking in a multi-agent formation"
+title: 'Simultaneous beamforming and trajectory tracking in a multi-agent formation'
 collection: publications
 permalink: /publication/Simultaneous beamforming and trajectory tracking in a multi-agent formation
 excerpt: ' A two-level nonlinear control law is designed to meet the objective of attaining a maximum possible SNR at the receiver while maintaining a rigid formation whose centroid tracks a smooth trajectory. We show that the equilibrium of the cascaded closed-loop system is locally exponentially stable. Simulations are performed to validate the control law.'
