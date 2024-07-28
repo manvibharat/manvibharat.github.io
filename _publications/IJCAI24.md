@@ -1,4 +1,4 @@
-
+---
 title: "Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version)"
 collection: publications
 permalink: /publication/IJCAI24
