@@ -17,6 +17,7 @@ More specifically, I research in intersection of multi-agent system and game the
 ### Please free to contact me at manvibharat123@gmail.com to discuss research topics.
 
 ## My Research Topics
+---
 
 - Game Theory
 - Reinforcement Learning
