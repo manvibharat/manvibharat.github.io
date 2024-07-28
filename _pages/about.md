@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Bharat Manvi. I completed my MS degree in Electrical Engineering; Control and optimization group; in IIT Madras.
-I did my research in Lyapunov stability analysis of the cascade of formation and geometric control. Currently I am working at TCS Research and my research is in area of Electricity Wholesale market. 
+I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
+My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**. 
 
-More specifically, I research in intersection of multi-agent system and game theory. Recently, I got interest in learning algorithms, using Multi agent RL and applying game theory in analysing the algorithms using game theoy. As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on game theory and its applications in **RL and Multi agent RL**.  
+Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  
+
+More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical reasing in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games which might help in reasoning the MARL solutions. 
+
+As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on game theory and its applications in **RL and Multi agent RL**.  
 
 
-### Please free to contact me at manvibharat123@gmail.com to discuss research topics.
+### Please free to contact me at manvibharat123@gmail.com.
+
+I am receptive to join competition in my reseach area if there is an opening, please contact above mail if any.
 
 ## My Research Topics
 
@@ -24,6 +30,9 @@ More specifically, I research in intersection of multi-agent system and game the
 - Multi Agent RL
 - Dynamical Systems
 - Robotics: Planning and Control
+
+---
+
 
   
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
