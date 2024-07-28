@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Bharat Manvi"
 title_separator          : "-"
 name                     : &name "Bharat Manvi"
-description              : &description "personal description"
+description              : &description "Researcher at TCS"
 url                      : https://manvibharat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "manvibharat/manvibharat.github.io"
@@ -94,7 +94,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            :  "manvibharat123@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  Bharat Manvi: "https://www.researchgate.net/profile/Bharat-Manvi"
   uri              :
   bitbucket        :
   codepen          :
