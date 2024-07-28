@@ -5,7 +5,7 @@ permalink: /publication/IJCAI24
 excerpt: 'In this work, the focus is on finding policies for Buyers in Periodic Double Auction using Nash Equilibrium Analysis.'
 date: 03.08.24 - 09.08.24
 venue: 'IJCAI2024'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/pdf/2405.04125v2'
 citation: '@misc{manvi2024optimizingprosumerpoliciesperiodic,
       title={Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version)}, 
       author={Bharat Manvi and Sanjay Chandlekar and Easwar Subramanian},
