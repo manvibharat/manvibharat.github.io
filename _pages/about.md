@@ -22,7 +22,7 @@ My Research Topics
 - Reinforcement Learning
 - Multi Agent Systems
 - Multi Agent RL
-- Dynamical Systems and Estimation
+- Dynamical Systems
 - Robotics: Planning and Control
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
 
