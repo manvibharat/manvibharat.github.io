@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on A Nash Equilibrium Solution for Periodic Double Auctions"
+title: "A Nash Equilibrium Solution for Periodic Double Auctions"
 collection: talks
 type: "Presentation"
 permalink: /talks/2014-03-01-talk-3
