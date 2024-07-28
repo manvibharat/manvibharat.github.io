@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
-My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**. 
+My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**. More details are avaialable at  
 
 Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  
 
