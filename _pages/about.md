@@ -13,8 +13,8 @@ I did my research in Lyapunov stability analysis of the cascade of formation and
 
 More specifically, I research in intersection of multi-agent system and game theory. Recently, I got interest in learning algorithms, using Multi agent RL and applying game theory in analysing the algorithms using game theoy. As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on game theory and its applications in **RL and Multi agent RL**.  
 
-===
-Please free to contact me at **manvibharat123@gmail.com** to discuss research topics.
+
+### Please free to contact me at **manvibharat123@gmail.com** to discuss research topics.
 
 My Research Topics
 ===
