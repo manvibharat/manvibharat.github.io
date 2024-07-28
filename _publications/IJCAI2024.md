@@ -6,7 +6,8 @@ excerpt: 'We consider a periodic double auction (PDA) wherein the main participa
 date: 2024-08-06
 venue: 'International Joint Conference on Artificial  Intelligence'
 paperurl: 'https://arxiv.org/pdf/2405.04125v2'
-slidesurl: ''
 citation: 'Manvi, Bharat, Sanjay Chandlekar, and Easwar Subramanian. "Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version)." arXiv preprint arXiv:2405.04125 (2024).'
 ---
-
+<---
+slidesurl: ''
+--->
