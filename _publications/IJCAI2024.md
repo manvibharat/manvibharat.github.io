@@ -36,6 +36,6 @@ on Artificial  Intelligence'
 paperurl: 'https://arxiv.org/pdf/2405.04125'
 citation: 'Manvi, Bharat, Sanjay Chandlekar, and Easwar Subramanian. Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version). arXiv preprint arXiv:2405.04125 (2024).'
 ---
-
+The paper is about finding the policies in practical applications using game theoretical reasoning.
 
 
