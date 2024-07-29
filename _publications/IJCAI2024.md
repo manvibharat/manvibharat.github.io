@@ -30,9 +30,9 @@ using past auction information. The efficacy of the
 proposed algorithm is demonstrated on the Pow-
 erTAC wholesale market simulator against several
 baselines and state-of-the-art bidding policies.'
-date: 2023-12-13
+date: 2024-08-06
 venue: 'International Joint Conference
-on Artificial  Intelligence 2024'
+on Artificial  Intelligence'
 paperurl: 'https://arxiv.org/pdf/2405.04125'
 citation: 'Manvi, Bharat, Sanjay Chandlekar, and Easwar Subramanian. Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version). arXiv preprint arXiv:2405.04125 (2024).'
 ---
