@@ -1,7 +1,7 @@
 ---
-title: "A Nash Equilibrium Solution for Periodic Double Auctions"
+title: "Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis"
 collection: publications
-permalink: /publication/CDC2023
+permalink: /publication/IJCAI24
 excerpt: 'We consider a periodic double auction (PDA)
 setting where buyers of the auction have multiple (but finite)
 opportunities to procure multiple but fixed units of a commodity. The goal of each buyer participating in such auctions is to
