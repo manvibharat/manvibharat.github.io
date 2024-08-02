@@ -13,8 +13,13 @@ My research was on establishing Lyapuanov Stability of the **Cascade of Formatio
 
 Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  
 
-More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. 
+More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding the Nash Equilibria in Periodic Double Auctions.
 
+- https://manvibharat.github.io/publication/CDC2023
+
+- https://manvibharat.github.io/publication/IJCAI2024
+
+  
 As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on **game theory** and its applications in **RL and Multi agent RL**.  
 
 
