@@ -31,8 +31,6 @@ I am receptive to join competition in my reseach area if there is an opening, pl
 - Dynamical Systems
 - Robotics: Planning and Control
 
----
-
 
   
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
