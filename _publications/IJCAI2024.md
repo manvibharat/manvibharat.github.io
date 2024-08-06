@@ -7,8 +7,11 @@ date: 2024-05-06
 venue: 'International Joint Conference on Artificial  Intelligence'
 paperurl: https://arxiv.org/pdf/2405.04125
 citation: 'Manvi, Bharat, Sanjay Chandlekar, and Easwar Subramanian. Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis (Extended Version). arXiv preprint arXiv:2405.04125 (2024).'
-slidesurl: files/ijcai2024_presentation.pdf
+slidesurl: https://manvibharat.github.io/files/ijcai2024_presentation.pdf
 ---
 
 
+This work focuses on finding Nash Equilibrium in Complete Information setting by Modelling Periodic Double Auction as a Markov Game. Based on the Nash Equilibrium Analysis an algorithm is devised.
+
+You can find my poster at [Poster presented at IJCAI2024](https://manvibharat.github.io/files/quarto_poster.pdf)
 
