@@ -13,5 +13,7 @@ slideurl: 'https://manvibharat.github.io/files/ijcai2024_presentation.pdf'
 
 This work focuses on finding Nash Equilibrium in Complete Information setting by Modelling Periodic Double Auction as a Markov Game. Based on the Nash Equilibrium Analysis an algorithm is devised.
 
-Find My [Poster presented at IJCAI2024](https://manvibharat.github.io/files/poster_quarto.pdf)
+
+
+Find My [Presentation Slides](https://manvibharat.github.io/files/ijcai2024_presentation.pdf) and [Poster presented at IJCAI2024](https://manvibharat.github.io/files/poster_quarto.pdf) 
 
