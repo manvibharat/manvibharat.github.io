@@ -27,8 +27,8 @@ Skills
 
 Courses 
 =======
-* Reinforcement Learning | Machine Learning | Convex optimization | Game theory | Deep Learning
-* Linear Dynamical systems | Nonlinear Control Systems | Stochastic control | Optimal Control | Geometric control 
+* Reinforcement Learning, Machine Learning, Convex optimization, Game theory, Deep Learning
+* Linear Dynamical systems, Nonlinear Control Systems, Stochastic control, Optimal Control, Geometric control 
  
 <!-- Mini Projects
 === -->
