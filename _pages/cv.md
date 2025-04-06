@@ -18,40 +18,20 @@ Work experience
 ======
 * Sept 2021 - Present :
   * TCS Research : Researcher
-  * Topics included: Electricity Markets, Markov/Stochastic Games, Stochastic differential equations, Auctions
+  * Topics included: Electricity Markets, Markov/Stochastic Games, Auctions
 
-* December 2020 :  
-  * Control systems (NPTEL) : Teaching Assistant
-  * Duties included: Creating experiments on PID control
-
-* July 2018 - July 2022: MS (by Research)
-  * IIT Madras : Research Scholar
-  * Topics included: Research on Lyapunov methods control theory 
-  
 Skills
 ======
-* Programming in Python, Julia and Cpp
-* Experience in ROS Melodic, Neotic
+* Programming Languages : Python, C++, Julia
+* Softwares and Packages: Pytorch, PettingZoo, Gym, Pytorch Ligthning, Robot Operating System(ROS)
 
 Courses 
 =======
-* Done at IIT Madras
-  * Convex optimization
-  * Game theory
-  * Reinforcement Learning
-  * Linear Dynamical systems
-  * Nonlinear Control Systems
-  * Stochastic control
-  * Real analysis
-* Self thought / Online courses 
-  * Machine Learning
-  * Deep Learning
-  * Optimal Control
-  * Geometric control 
+* Reinforcement Learning | Machine Learning | Convex optimization | Game theory | Deep Learning
+* Linear Dynamical systems | Nonlinear Control Systems | Stochastic control | Optimal Control | Geometric control 
  
 <!-- Mini Projects
 === -->
-
 
 Publications
 ======
