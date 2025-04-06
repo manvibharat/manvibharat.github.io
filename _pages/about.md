@@ -26,7 +26,6 @@ As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I
 - Robotics: Planning and Control
 
 Feel free to contact me at :
-
 ee24d033@smail.iitm.ac.in / bharat.manvi@tcs.com / manvibharat123@gmail.com.
 
 [^1]: [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
