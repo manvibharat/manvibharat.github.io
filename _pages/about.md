@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
-My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**^[More details are avaialable at [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
-]. 
-Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  
+My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**[^1]. 
 
-More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding Nash Equilibria in Periodic Double Auctions.
+Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding Nash Equilibria in Periodic Double Auctions.
 
 - [A Nash Equilibrium Solution for Periodic Double Auctions](https://manvibharat.github.io/publication/CDC2023)
 
@@ -33,6 +31,8 @@ As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I
 - Dynamical Systems
 - Robotics: Planning and Control
 
+
+[^1]: [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
 
   
 <!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
