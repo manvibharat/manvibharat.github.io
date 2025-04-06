@@ -30,8 +30,12 @@ Courses
 * Reinforcement Learning, Machine Learning, Convex optimization, Game theory, Deep Learning
 * Linear Dynamical systems, Nonlinear Control Systems, Stochastic control, Optimal Control, Geometric control 
  
-<!-- Mini Projects
-=== -->
+Projects
+=== 
+* Buiding Day-ahead Electricity Market simulator.
+* Developing a multi agent reinforcement learning algorithm for the agents involved in the simulator.
+  
+
 
 Publications
 ======
@@ -46,7 +50,7 @@ Publications
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 <!--  
 Teaching
 ======
