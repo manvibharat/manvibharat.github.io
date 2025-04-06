@@ -34,8 +34,6 @@ As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I
 
 [^1]: [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
 
-  
-<!-- I am fascinated by the possibilities of learning and control in many of the applications. -->
 
 <!--
 Videos
