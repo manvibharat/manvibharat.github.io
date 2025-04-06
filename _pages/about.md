@@ -20,7 +20,7 @@ Currently I am working at TCS Research and my research is in the area of Game th
 As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on **game theory** and its applications in **RL and Multi agent RL**.  
 
 
-### Feel free to contact me at ee24d033@smail.iitm.ac.in/bharat.manvi@tcs.com/manvibharat123@gmail.com.
+### Feel free to contact me at ee24d033@smail.iitm.ac.in / bharat.manvi@tcs.com / manvibharat123@gmail.com.
 
 ## My Research Topics
 
