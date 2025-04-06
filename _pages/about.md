@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
-My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**. More details are avaialable at [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
-
+My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**^[More details are avaialable at [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
+]. 
 Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  
 
 More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding Nash Equilibria in Periodic Double Auctions.
@@ -22,9 +22,7 @@ More specifically, my research interests lies in the intersection of multi-agent
 As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on **game theory** and its applications in **RL and Multi agent RL**.  
 
 
-### Please free to contact me at manvibharat123@gmail.com.
-
-I am open to join competition in my reseach area if there is an opening, please contact above mail if any.
+### Feel free to contact me at ee24d033@smail.iitm.ac.in/bharat.manvi@tcs.com/manvibharat123@gmail.com.
 
 ## My Research Topics
 
