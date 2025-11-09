@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Home"
 permalink: /
 author_profile: true
