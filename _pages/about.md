@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: page
 title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
 My work spans control systems, reinforcement learning, multi-agent systems, game theory,  
