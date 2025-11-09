@@ -17,6 +17,20 @@ I enjoy working at the intersection of machine learning, control theory, and opt
 designing systems that combine data-driven learning with mathematical structure.
 
 
+I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
+My work lies at the intersection of control theory, reinforcement learning,  
+game theory, and scientific computing.
+
+I have experience building research prototypes, numerical simulation tools,  
+and machine learning systems for dynamical and multi-agent environments.  
+My work has been published in venues such as IJCAI, CDC, and MED.
+
+Outside research, I enjoy reading about dynamical systems, robotics, and  
+mathematical optimization, and I like experimenting with tools like PyTorch,  
+TensorBoard, MLflow, and Docker.
+
+
+
 I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
 My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**[^1]. 
 
