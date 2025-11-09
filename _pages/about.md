@@ -6,6 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
+My work spans control systems, reinforcement learning, multi-agent systems, game theory,  
+and optimization. I develop algorithms for dynamical systems, trajectory optimization,  
+and learning in multi-agent environments.
+
+My research has been published in IJCAI, CDC, and MED.  
+I am broadly interested in AI for dynamical systems and decision-making.
+
+I enjoy working at the intersection of machine learning, control theory, and optimization,  
+designing systems that combine data-driven learning with mathematical structure.
+
+
 I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
 My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**[^1]. 
 
