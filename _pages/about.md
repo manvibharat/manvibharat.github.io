@@ -5,25 +5,7 @@ author_profile: true
 ---
 
 
-I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
-My work spans control systems, reinforcement learning, multi-agent systems, game theory,  
-and optimization. I develop algorithms for dynamical systems, trajectory optimization,  
-and learning in multi-agent environments.
-
-My research has been published in IJCAI, CDC, and MED.  
-I am broadly interested in AI for dynamical systems and decision-making.
-
-I enjoy working at the intersection of machine learning, control theory, and optimization,  
-designing systems that combine data-driven learning with mathematical structure.
-
-
-I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
-My work lies at the intersection of control theory, reinforcement learning,  
-game theory, and scientific computing.
-
-I have experience building research prototypes, numerical simulation tools,  
-and machine learning systems for dynamical and multi-agent environments.  
-My work has been published in venues such as IJCAI, CDC, and MED.
+Researcher at TCS Research working on cost-minimizing equilibrium strategies for energy brokers and small-scale energy producers. I have a strong background in multi-agent systems, game-theoretic analysis, and nonlinear control, with publications in IJCAI, CDC, and MED. I am pursuing a part-time PhD at IIT Madras on learning dynamics in games and equilibrium-seeking algorithms, involving multi-agent simulator development. I am also interested in neural operators and am actively exploring these topics.
 
 Outside research, I enjoy reading about dynamical systems, robotics, and  
 mathematical optimization, and I like experimenting with tools like PyTorch,  
@@ -31,7 +13,7 @@ TensorBoard, MLflow, and Docker.
 
 
 
-I am Bharat Manvi. I have completed MS by Research in Control and Optimization group of Electrical Engineering at IIT Madras.
+
 My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**[^1]. 
 
 Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding Nash Equilibria in Periodic Double Auctions.
