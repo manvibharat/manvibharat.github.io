@@ -25,9 +25,5 @@ author_profile: true
 - Designed and analyzed better-response dynamics within this environment, including preliminary results on convergence toward equilibrium behavior.
 - Implemented multi-agent learning strategies inspired by better-response dynamics and evaluated them against baseline policies in the simulator.
 
----
 
-### Game-Theoretic Best-Response Dynamics Simulator (PhD Work)  
-Developing simulation tools for analyzing $\varepsilon$-best-response dynamics,  
-stability, and cyclical behavior in multi-agent games. Part of my ongoing  
-PhD research in dynamic games at IIT Madras.
+
