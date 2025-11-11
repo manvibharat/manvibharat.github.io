@@ -4,8 +4,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects
-
 ### **MS Thesis: Formation Control and Trajectory Tracking**
 - Developed a two-level nonlinear control strategy for a leader–follower formation to maintain a rigid regular-polygon geometry while tracking smooth trajectories.
 - Simulated the control law and demonstrated that trajectory tracking error and formation orientation error converge to zero (MED 2021).
