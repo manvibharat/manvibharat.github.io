@@ -15,11 +15,11 @@ Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts
 
 Some of the predictions are as follows 
 
-![scenario 1](images/bev/scenario_1.png)
+![scenario 1](/images/bev/scenario_1.png)
 
-![scenario 2](images/bev/scenario_2.png)
+![scenario 2](/images/bev/scenario_2.png)
 
-![scenario 3](images/bev/scenario_3.png)
+![scenario 3](/images/bev/scenario_3.png)
 
 
 
