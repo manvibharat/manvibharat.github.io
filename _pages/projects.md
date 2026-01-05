@@ -51,8 +51,8 @@ The implementation video is as follows.
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/embed/wMIaKA5AQtA"
-      width="700"
-      height="480"
+      width="500"
+      height="320"
       frameborder="0"
       allow="autoplay; encrypted-media"
       allowfullscreen="true">
