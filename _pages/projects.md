@@ -35,11 +35,9 @@ Built and optimized a lightweight Vision Transformer (ViT) for image classificat
 
 The results are consolidated as 
 
-========================================
 BENCHMARK
-========================================
+
 Metric          | Original   | FX INT8    | Impact
--------------------------------------------------------
 Accuracy        | 70.17    % | 70.46    % | 0.29%
 Speed (FPS)     | 3633       | 5679       | 1.6x Faster
 Size (MB)       | 3.09       | 0.93       | 3.3x Smaller
