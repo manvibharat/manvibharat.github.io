@@ -4,24 +4,34 @@ permalink: /projects/
 author_profile: true
 ---
 
-### **MS Thesis: Formation Control and Trajectory Tracking**
-- Developed a two-level nonlinear control strategy for a leader–follower formation to maintain a rigid regular-polygon geometry while tracking smooth trajectories.
-- Simulated the control law and demonstrated that trajectory tracking error and formation orientation error converge to zero (MED 2021).
-- Built a hardware-in-the-loop (HIL) setup as part of the thesis to test the proposed control law (from MED 2021) on quadrotors.
+## **Multi-Camera BEV Perception via Geometric Projection and Transformers**
+
+Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts multi-camera image features into BEV space using calibrated camera geometry and transformer-style aggregation.
+
+- Lifted 2D CNN features into BEV using explicit geometric projection (`lidar2img`) and differentiable grid sampling
+- Designed BEV query embeddings and height-aware aggregation for learning spatial representations
+- Trained and evaluated on nuScenes for road and vehicle segmentation
+- Benchmarked inference performance (~15 FPS on GPU) and analyzed accuracy–latency trade-offs
 
 ---
 
-### **IJCAI 2024: Optimizing Prosumer Policies in Periodic Double Auctions**
-- Modeled a periodic double auction as a Markov game with prosumers capable of both buying and small-scale selling.
-- Derived equilibrium bidding strategies and analyzed their impact on procurement cost and market outcomes.
-- Evaluated the proposed policy in the PowerTAC energy market simulator and compared it against state-of-the-art bidding strategies.
+## **Post-Training Quantization of Vision Transformers**
+
+Built and optimized a lightweight Vision Transformer (ViT) for image classification with a focus on deployment efficiency.
+
+- Implemented a Vision Transformer from scratch in PyTorch
+- Applied post-training quantization (PTQ) using `torch.fx` to enable INT8 inference
+- Exported the model to ONNX and verified numerical consistency with PyTorch
+- Achieved 3.3× model size reduction and 1.5× inference speedup with no measurable accuracy degradation (~70% Top-1)
 
 ---
 
-### **PhD Research: Learning Equilibria via Better-Response Dynamics**
-- Developed a Python-based multi-agent energy market simulator to study strategic interactions among energy brokers.
-- Designed and analyzed better-response dynamics within this environment, including preliminary results on convergence toward equilibrium behavior.
-- Implemented multi-agent learning strategies inspired by better-response dynamics and evaluated them against baseline policies in the simulator.
+## **Academic Research (Selected)**
 
+### MS Thesis: Formation Control and Trajectory Tracking
+- Designed a nonlinear leader–follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories
+- Validated through simulation and hardware-in-the-loop experiments on quadrotor platforms (MED 2021)
 
-
+### Multi-Agent Learning and Game-Theoretic Optimization
+- Modeled strategic interactions in energy markets using Markov games and learning-based bidding strategies
+- Published results in IJCAI and CDC
