@@ -17,6 +17,8 @@ Selected projects and technical work are listed below.
 
 1. Multi-Camera BEV Perception via Geometric Projection and Transformers
 2. Post-Training Quantization of Vision Transformers
+3. MS Thesis: Formation Control and Trajectory Tracking
+4. PhD Research: Learning Equilibria via Better-Response Dynamics
 
 
 [For more details on projects please refer here]({{ site.baseurl }}/projects/)
