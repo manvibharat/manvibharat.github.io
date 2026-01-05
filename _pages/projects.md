@@ -46,6 +46,19 @@ The results are consolidated as
 
 - Designed a nonlinear leader-follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories, with formal stability analysis.
 - Validated the approach through simulation and hardware-in-the-loop experiments on quadrotor platforms, demonstrating convergence of rotation tracking error to small steady-state values ($\approx$ 0.2 under a standard rotation error metric).
+
+The implementation video is as follows.
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/wMIaKA5AQtA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
   
 
 ### PhD Research: Learning Equilibria via Better-Response Dynamics
