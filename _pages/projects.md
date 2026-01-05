@@ -32,6 +32,6 @@ Built and optimized a lightweight Vision Transformer (ViT) for image classificat
 - Designed a nonlinear leader–follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories
 - Validated through simulation and hardware-in-the-loop experiments on quadrotor platforms (MED 2021)
 
-### Multi-Agent Learning and Game-Theoretic Optimization
+### PhD Research: Learning Equilibria via Better-Response Dynamics
 - Modeled strategic interactions in energy markets using Markov games and learning-based bidding strategies
 - Published results in IJCAI and CDC
