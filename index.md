@@ -4,10 +4,11 @@ permalink: /
 author_profile: true
 ---
 
-I am a Researcher at TCS Research and a part-time PhD student at IIT Madras.  
-My work spans control systems, reinforcement learning, multi-agent systems, game theory,  
-and optimization. I develop algorithms for dynamical systems, trajectory optimization,  
-and learning in multi-agent environments.
 
-My research has been published in IJCAI, CDC, and MED.  
-I am broadly interested in AI for dynamical systems and decision-making.
+I am an Applied Research Engineer at TCS Research, with a background in control systems and machine learning.  
+My work focuses on designing and implementing learning-based algorithms for multi-agent systems, decision-making, and optimization.
+
+Recently, I have been working on end-to-end perception and efficiency-oriented machine learning systems, including Bird’s-Eye-View (BEV) perception pipelines, Vision Transformers, and model optimization for latency-constrained inference.
+
+I have published research in venues including IJCAI, CDC, and MED.  
+Selected projects and technical work are listed below.
