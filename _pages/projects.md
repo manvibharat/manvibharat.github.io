@@ -13,6 +13,10 @@ Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts
 - Trained and evaluated on nuScenes for road and vehicle segmentation
 - Benchmarked inference performance (~15 FPS on GPU) and analyzed accuracy–latency trade-offs
 
+Some of the predictions are as follows 
+
+
+
 ---
 
 ## **Post-Training Quantization of Vision Transformers**
