@@ -30,7 +30,7 @@ Built and optimized a lightweight Vision Transformer (ViT) for image classificat
 - Achieved 3.3$\times$ model size reduction and 1.5$\times$ inference speedup while maintaining $\sim$70\% top-1 classification accuracy on CIFAR-10, matching the FP32 baseline.
 
 The results are consolidated as 
-
+|---------------------------------------------------------|
 | Metric        | FP32       | FX INT8    | Impact        |
 |--------------|------------|------------|---------------|
 | Accuracy (%) | 70.17      | 70.46      | +0.29%        |
