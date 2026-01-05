@@ -33,9 +33,20 @@ Built and optimized a lightweight Vision Transformer (ViT) for image classificat
 - Exported the model to ONNX and verified numerical consistency with PyTorch
 - Achieved 3.3× model size reduction and 1.5× inference speedup with no measurable accuracy degradation (~70% Top-1)
 
+The results are consolidated as 
+
+========================================
+BENCHMARK
+========================================
+Metric          | Original   | FX INT8    | Impact
+-------------------------------------------------------
+Accuracy        | 70.17    % | 70.46    % | 0.29%
+Speed (FPS)     | 3633       | 5679       | 1.6x Faster
+Size (MB)       | 3.09       | 0.93       | 3.3x Smaller
+
 ---
 
-## **Academic Research (Selected)**
+## **Other Research Projects**
 
 ### MS Thesis: Formation Control and Trajectory Tracking
 - Designed a nonlinear leader–follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories
