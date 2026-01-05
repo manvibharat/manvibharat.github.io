@@ -16,7 +16,6 @@ Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts
 Some of the predictions are as follows 
 <div style="display: flex; gap: 12px; justify-content: center;">
   <img src="{{ site.baseurl }}/images/bev/scenario_1.png" width="32%">
-  <img src="{{ site.baseurl }}/images/bev/scenario_2.png" width="32%">
   <img src="{{ site.baseurl }}/images/bev/scenario_3.png" width="32%">
 </div>
 
