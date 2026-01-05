@@ -11,4 +11,8 @@ My work focuses on designing and implementing learning-based algorithms for mult
 Recently, I have been working on end-to-end perception and efficiency-oriented machine learning systems, including Bird’s-Eye-View (BEV) perception pipelines, Vision Transformers, and model optimization for latency-constrained inference.
 
 I have published research in venues including IJCAI, CDC, and MED.  
+
 Selected projects and technical work are listed below.
+==
+1. Multi-Camera BEV Perception via Geometric Projection and Transformers
+2. Post-Training Quantization of Vision Transformers
