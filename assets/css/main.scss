@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* ===============================
+   Custom overrides
+   =============================== */
+
+.page__content table thead th {
+  background-color: #f2f2f2 !important;
+  color: #000 !important;
+}
