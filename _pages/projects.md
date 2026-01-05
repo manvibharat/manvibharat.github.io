@@ -14,12 +14,12 @@ Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts
 - Benchmarked inference performance (~15 FPS on GPU) and analyzed accuracy–latency trade-offs
 
 Some of the predictions are as follows 
+<div style="display: flex; gap: 12px; justify-content: center;">
+  <img src="{{ site.baseurl }}/images/bev/scenario_1.png" width="32%">
+  <img src="{{ site.baseurl }}/images/bev/scenario_2.png" width="32%">
+  <img src="{{ site.baseurl }}/images/bev/scenario_3.png" width="32%">
+</div>
 
-![scenario 1](/images/bev/scenario_1.png)
-
-![scenario 2](/images/bev/scenario_2.png)
-
-![scenario 3](/images/bev/scenario_3.png)
 
 
 
