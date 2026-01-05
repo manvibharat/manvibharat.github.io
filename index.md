@@ -14,5 +14,9 @@ I have published research in venues including IJCAI, CDC, and MED.
 
 Selected projects and technical work are listed below.
 ==
+
 1. Multi-Camera BEV Perception via Geometric Projection and Transformers
 2. Post-Training Quantization of Vision Transformers
+
+
+[For more details on projects please refer here]({{ site.baseurl }}/projects/)
