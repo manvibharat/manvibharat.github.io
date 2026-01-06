@@ -9,21 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Summary 
+==
+Applied Research Engineer with experience in deep learning, multi-agent systems, and control.
+My recent work focuses on building and optimizing machine learning systems, including
+multi-camera Bird’s-Eye-View (BEV) perception pipelines and efficient Vision Transformer models.
+
+I have a strong foundation in control systems and game-theoretic modeling, with published work
+in IJCAI, CDC, and MED. I am particularly interested in ML systems for autonomous and embedded
+applications, where accuracy, latency, and reliability must be jointly optimized.
+
+
 Education
 ======
 * B.E in Electronics and Communication, SJCE, Mysore, 2018
-* M.S (by Research) in Control systems, Electrical Engineering, IIT Madras, 2022
+* M.S (by Research) in Control and Optimization, Electrical Engineering, IIT Madras, 2022
+* PhD in Control and Optimization (part-time pursuing), Electrical Engineering, 2026 expected
 
 Work experience
 ======
-* Sept 2021 - Present :
-  * TCS Research : Researcher
-  * Topics included: Electricity Markets, Markov/Stochastic Games, Auctions
+**Researcher — TCS Research**  
+*Sep 2021 – Present*
+
+- Modeled strategic interactions in multi-agent systems using Markov games, with applications to energy markets.
+- Designed decentralized learning-based bidding strategies achieving near-optimal performance
+  (within ~3–6% of best-known strategies) across varying demand regimes.
+- Published peer-reviewed research in IJCAI and CDC on equilibrium computation and learning dynamics.
 
 Skills
 ======
-* Programming Languages : Python, C++, Julia
-* Softwares and Packages: Pytorch, PettingZoo, Gym, Pytorch Ligthning, Robot Operating System(ROS)
+**Programming:** Python, C++, Julia  
+**ML Frameworks:** PyTorch, torch.fx, ONNX  
+**Systems & Tools:** Docker, Git, MLflow, TensorBoard, ROS, Gazebo  
+**Focus Areas:** Vision Transformers, 3D Perception, Model Quantization, Autonomous Systems, MARL
 
 Courses 
 =======
