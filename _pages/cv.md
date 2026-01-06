@@ -11,7 +11,7 @@ redirect_from:
 
 Summary 
 ==
-Applied Research Engineer with experience in deep learning, multi-agent systems, and control.
+Research Engineer with experience in deep learning, multi-agent systems, and control.
 My recent work focuses on building and optimizing machine learning systems, including
 multi-camera Bird’s-Eye-View (BEV) perception pipelines and efficient Vision Transformer models.
 
@@ -24,7 +24,7 @@ Education
 ======
 * B.E in Electronics and Communication, SJCE, Mysore, 2018
 * M.S (by Research) in Control and Optimization, Electrical Engineering, IIT Madras, 2022
-* PhD in Control and Optimization (part-time pursuing), Electrical Engineering, 2026 expected
+* PhD in Control and Optimization (part-time), Electrical Engineering, expected 2026
 
 Work experience
 ======
@@ -38,10 +38,15 @@ Work experience
 
 Skills
 ======
+
 **Programming:** Python, C++, Julia  
+
 **ML Frameworks:** PyTorch, torch.fx, ONNX  
+
 **Systems & Tools:** Docker, Git, MLflow, TensorBoard, ROS, Gazebo  
+
 **Focus Areas:** Vision Transformers, 3D Perception, Model Quantization, Autonomous Systems, MARL
+
 
 Projects
 === 
