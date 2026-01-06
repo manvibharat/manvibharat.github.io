@@ -5,53 +5,9 @@ author_profile: true
 ---
 
 
-Researcher at TCS Research working on cost-minimizing equilibrium strategies for energy brokers and small-scale energy producers. I have a strong background in multi-agent systems, game-theoretic analysis, and nonlinear control, with publications in IJCAI, CDC, and MED. I am pursuing a part-time PhD at IIT Madras on learning dynamics in games and equilibrium-seeking algorithms, involving multi-agent simulator development. I am also interested in neural operators and am actively exploring these topics.
+I am an Applied Research Engineer at TCS Research with a background in control systems and machine learning. My work spans learning-based methods for multi-agent systems, with publications in IJCAI and CDC.
+Recently, I have focused on vision-based perception and efficient deep learning systems, building end-to-end Bird’s-Eye-View (BEV) perception pipelines from multi-camera inputs and exploring model optimization techniques such as post-training quantization for deployment efficiency. I enjoy working at the intersection of geometry, learning, and systems, particularly where accuracy–latency trade-offs matter.
+I am pursuing a part-time PhD at IIT Madras, where my research explores learning dynamics and equilibrium-seeking algorithms in multi-agent settings. Alongside research, I enjoy implementing ideas in PyTorch and evaluating models with a systems perspective.
 
-Outside research, I enjoy reading about dynamical systems, robotics, and  
-mathematical optimization, and I like experimenting with tools like PyTorch,  
-TensorBoard, MLflow, and Docker.
-
-
-
-
-My research was on establishing Lyapuanov Stability of the **Cascade of Formation and Geometric Control**[^1]. 
-
-Currently I am working at TCS Research and my research is in the area of Game theory and Auctions.  More specifically, my research interests lies in the intersection of multi-agent system and game theory. Recent success of MARL algorithms in MAS has fascinated me about using game theoretical modelling in MARL algorithms. I feel, my current research of finding Nash Equilibria in abstract games might help in reasoning the MARL solutions. My current research lead to following papers on finding Nash Equilibria in Periodic Double Auctions.
-
-- [A Nash Equilibrium Solution for Periodic Double Auctions](https://manvibharat.github.io/publication/CDC2023)
-
-- [Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis](https://manvibharat.github.io/publication/IJCAI2024)
- 
-As on 2024, I joined as a PhD student in IIT Madras Electricity Department and I will be working on **game theory** and its applications in **RL and Multi agent RL**.  
-
-## My Research Topics
-- Game Theory
-- Reinforcement Learning
-- Multi Agent Systems
-- Multi Agent RL
-- Dynamical Systems
-- Robotics: Planning and Control
-
-Feel free to contact me at :
-ee24d033@smail.iitm.ac.in / bharat.manvi@tcs.com / manvibharat123@gmail.com.
-
-[^1]: [Simultaneous beamforming and trajectory tracking in a multi-agent formation.](https://manvibharat.github.io/publication/MED2021)
-
-
-<!--
-Videos
-===
-
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/wMIaKA5AQtA"
-      width="700"
-      height="480"
-      frameborder="0"
-      allow="autoplay; encrypted-media"
-      allowfullscreen="true">
-  </iframe>
-</div>
-
- <iframe width="500" height="400" src="http://www.youtube.com/embed/wMIaKA5AQtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>></iframe> -->
-
+📌 Selected projects and results are available on the Projects page.
+📫 Contact: manvibharat123@gmail.com 
