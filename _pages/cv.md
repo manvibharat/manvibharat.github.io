@@ -43,17 +43,12 @@ Skills
 **Systems & Tools:** Docker, Git, MLflow, TensorBoard, ROS, Gazebo  
 **Focus Areas:** Vision Transformers, 3D Perception, Model Quantization, Autonomous Systems, MARL
 
-Courses 
-=======
-* Reinforcement Learning, Machine Learning, Convex optimization, Game theory, Deep Learning
-* Linear Dynamical systems, Nonlinear Control Systems, Stochastic control, Optimal Control, Geometric control 
- 
 Projects
 === 
-* Buiding Day-ahead Electricity Market simulator.
-* Developing a multi agent reinforcement learning algorithm for the agents involved in the simulator.
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
-
 
 Publications
 ======
