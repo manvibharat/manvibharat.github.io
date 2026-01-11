@@ -39,13 +39,11 @@ Work experience
 Skills
 ======
 
+**Machine Learning**: Multi-Agent Reinforcement Learning, Deep Learning, Vision Transformers 
+**Theory & Methods**: Optimization, Game Theory, Dynamical Systems, Nonlinear Control, Multi-Agent Systems, 3D Perception, Model Quantization, Autonomous Systems
 **Programming:** Python, C++, Julia  
-
 **ML Frameworks:** PyTorch, torch.fx, ONNX  
-
 **Systems & Tools:** Docker, Git, MLflow, TensorBoard, ROS, Gazebo  
-
-**Focus Areas:** Vision Transformers, 3D Perception, Model Quantization, Autonomous Systems, MARL
 
 
 Projects
