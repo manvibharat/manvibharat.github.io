@@ -4,6 +4,30 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Multi-Agent Reinforcement Learning for Interpretable Equilibrium Policies
+- Developed a Python-based multi-agent simulation framework to study decentralized decision-making and equilibrium-seeking behavior.
+- Designed and evaluated learning dynamics inspired by better-response updates, analyzing convergence and performance against baseline multi-agent policies.
+
+## MS Thesis: Formation Control and Trajectory Tracking
+
+- Designed a nonlinear leader-follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories, with formal stability analysis.
+- Validated the approach through simulation and hardware-in-the-loop experiments on quadrotor platforms, demonstrating convergence of rotation tracking error to small steady-state values ($\approx$ 0.2 under a standard rotation error metric).
+
+The implementation video is as follows.
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/wMIaKA5AQtA"
+      width="500"
+      height="320"
+      frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+  
+
+
 ## **Multi-Camera BEV Perception via Geometric Projection and Transformers**
 
 Implemented an end-to-end Bird’s-Eye-View (BEV) perception pipeline that lifts multi-camera image features into BEV space using calibrated camera geometry and transformer-style aggregation.
@@ -18,6 +42,9 @@ Some of the predictions are as follows
   <img src="{{ site.baseurl }}/images/bev/scenario_3.jpg" width="50%">
 </div>
 *Qualitative BEV predictions showing road layout and vehicle occupancy from multi-camera inputs.*
+
+
+
 
 ---
 
@@ -38,29 +65,7 @@ The results are consolidated as
 | Size (MB)    | 3.09       | 0.93       | 3.3× smaller |
 
 
----
 
-## **Other Projects**
 
-### MS Thesis: Formation Control and Trajectory Tracking
 
-- Designed a nonlinear leader-follower control framework using geometric control to maintain rigid formations while tracking smooth trajectories, with formal stability analysis.
-- Validated the approach through simulation and hardware-in-the-loop experiments on quadrotor platforms, demonstrating convergence of rotation tracking error to small steady-state values ($\approx$ 0.2 under a standard rotation error metric).
 
-The implementation video is as follows.
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/wMIaKA5AQtA"
-      width="500"
-      height="320"
-      frameborder="0"
-      allow="autoplay; encrypted-media"
-      allowfullscreen="true">
-  </iframe>
-</div>
-
-  
-
-### PhD Research: Learning Equilibria via Better-Response Dynamics
-- Developed a Python-based multi-agent simulation framework to study decentralized decision-making and equilibrium-seeking behavior.
-- Designed and evaluated learning dynamics inspired by better-response updates, analyzing convergence and performance against baseline multi-agent policies.
